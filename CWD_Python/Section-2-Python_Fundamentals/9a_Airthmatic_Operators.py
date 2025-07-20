@@ -1,0 +1,9 @@
+a=7
+b=2
+print("1.Addition--> a+b=",a+b)
+print("2.Subtraction--> a-b=",a-b)
+print("3.Multiplication--> a*b=",a*b)
+print("4.Divide--> a/b=",a/b)
+print("5.Modulus--> a%b=",a%b)
+print("6.Floor Division--> a//b=",a//b)
+print("6.Exponentiation--> a**b=",a**b)
