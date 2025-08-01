@@ -1,5 +1,5 @@
 from google import genai
-client = genai.Client(api_key="AIzaSyBe9QXYL4Ylue9CC8njJG2RW3nVdLjWPIw") 
+client = genai.Client(api_key="AIzaSyBe9QXYL4Ylue9CC") # Write your own API key , the key written here is not valid
 questions = ["ask away"] 
 print ("Let's start this conversation\n")
 for q in questions:
