@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-key = "AIzaSyBe9QXYL4Ylue9CC8njJG2RW3nVdLjWPIw"
+key = "lue9CC8njJG2RW3nVdLjWPIw" # Write your own Google API Key
 
 messages = []
 
