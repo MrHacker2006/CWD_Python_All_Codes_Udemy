@@ -1,0 +1,10 @@
+file 'Snapchat-1510574013.jpg'
+duration 1
+file 'IMG_20250713_170451.jpg'
+duration 1
+file 'IMG_20250713_171436.jpg'
+duration 1
+file 'IMG_20250713_153813_Burst01.jpg'
+duration 1
+file 'IMG_20250713_171419.jpg'
+duration 1
